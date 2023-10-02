@@ -15,3 +15,7 @@ Projeto final - Desenvolviment de Software para Web - CK0207
 5. Input
 6. Botão
 7. Data Table
+
+
+### Api Routes
+![api_routes](https://github.com/Dev-Software-Para-Web-CK0207/.github/assets/38088170/c4126b86-79ee-4ac1-96a7-7eec5b9cf6c9)
