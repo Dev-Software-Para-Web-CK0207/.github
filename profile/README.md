@@ -1,6 +1,10 @@
 # TeVi
 Projeto final - Desenvolviment de Software para Web - CK0207
 
+### Equipe
+Vinicius Sabariz Paz - 420728
+João Marcos Brito Matias - 494952
+
 ### Documentação Base
 <img ref='Dev Software Web - Diagramação Base-4' src="https://github.com/Dev-Software-Para-Web-CK0207/.github/assets/38088170/524199dc-0d97-43e6-aa82-5348f010461a" width="500"/>
 
