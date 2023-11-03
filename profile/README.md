@@ -22,4 +22,4 @@ João Marcos Brito Matias - 494952
 
 
 ### Api Routes
-![api_routes](https://github.com/Dev-Software-Para-Web-CK0207/.github/assets/38088170/c4126b86-79ee-4ac1-96a7-7eec5b9cf6c9)
+![api_routes](https://github.com/Dev-Software-Para-Web-CK0207/.github/assets/38088170/298280fb-9684-49b8-b53b-29f7ed8749b7)
